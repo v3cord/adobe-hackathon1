@@ -35,7 +35,7 @@ All dependencies are installed via `requirements.txt`.
 ---
 
 ## Project Structure
-
+<pre>
 /1A
 ├── app
        ├── main.py
@@ -44,7 +44,7 @@ All dependencies are installed via `requirements.txt`.
 ├── output
 ├── Dockerfile
 ├── readme.md # Python dependencies (PyMuPDF)
-
+</pre>
 
 
 

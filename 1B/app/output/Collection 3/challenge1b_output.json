@@ -1,0 +1,176 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Dinner Ideas - Mains_2.pdf",
+      "Dinner Ideas - Sides_4.pdf",
+      "Dinner Ideas - Sides_3.pdf",
+      "Dinner Ideas - Mains_3.pdf",
+      "Dinner Ideas - Sides_1.pdf",
+      "Lunch Ideas.pdf",
+      "Dinner Ideas - Sides_2.pdf",
+      "Dinner Ideas - Mains_1.pdf",
+      "Breakfast Ideas.pdf"
+    ],
+    "persona": {
+      "role": "Food Contractor"
+    },
+    "job_to_be_done": {
+      "task": "Prepare a vegetarian buffet-style dinner menu for a corporate gathering, including gluten-free items."
+    },
+    "processing_timestamp": "2025-07-28T13:03:12Z"
+  },
+  "extracted_sections": [
+    {
+      "document": "Breakfast Ideas.pdf",
+      "page_number": 16,
+      "section_title": "Cottage Cheese and Veggie Bowl",
+      "importance_rank": 1
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "page_number": 14,
+      "section_title": "Greek Salad",
+      "importance_rank": 2
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "page_number": 7,
+      "section_title": "Black Bean and Corn Salad",
+      "importance_rank": 3
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "page_number": 6,
+      "section_title": "Mediterranean Chickpea Salad",
+      "importance_rank": 4
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "page_number": 12,
+      "section_title": "Apple Peanut Butter Sandwiches",
+      "importance_rank": 5
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "page_number": 12,
+      "section_title": "Caprese Salad",
+      "importance_rank": 6
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "page_number": 9,
+      "section_title": "Greek Salad",
+      "importance_rank": 7
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "page_number": 10,
+      "section_title": "Freekeh Salad",
+      "importance_rank": 8
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "page_number": 15,
+      "section_title": "Fruit and Nut Bars",
+      "importance_rank": 9
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "page_number": 11,
+      "section_title": "Veggie Sushi Rolls",
+      "importance_rank": 10
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "page_number": 2,
+      "section_title": "Quinoa Salad",
+      "importance_rank": 11
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "page_number": 10,
+      "section_title": "Caprese Salad",
+      "importance_rank": 12
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "page_number": 8,
+      "section_title": "Lentil Salad",
+      "importance_rank": 13
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "page_number": 4,
+      "section_title": "Baked Beans",
+      "importance_rank": 14
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "page_number": 10,
+      "section_title": "Breakfast Bowl",
+      "importance_rank": 15
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "page_number": 13,
+      "section_title": "Gomae (Spinach with Sesame Dressing)",
+      "importance_rank": 16
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "page_number": 14,
+      "section_title": "Quinoa Breakfast Bowl",
+      "importance_rank": 17
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "page_number": 13,
+      "section_title": "Cottage Cheese and Fruit",
+      "importance_rank": 18
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "page_number": 16,
+      "section_title": "Almond Butter and Apple Slices",
+      "importance_rank": 19
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "page_number": 15,
+      "section_title": "Gyeran Jjim",
+      "importance_rank": 20
+    }
+  ],
+  "sub_section_analysis": [
+    {
+      "document": "Breakfast Ideas.pdf",
+      "section_title": "Cottage Cheese and Veggie Bowl",
+      "refined_text": "Ingredients: 1 cup cottage cheese 1/4 cup cherry tomatoes, halved In a bowl, combine cottage cheese, cucumber, cherry tomatoes, and bell pepper Serve immediately",
+      "page_number": 16
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Greek Salad",
+      "refined_text": "Ingredients: o 1/4 cup feta cheese o Dice tomatoes and cucumber, slice red onion o Mix vegetables with olives and crumbled feta cheese o Whisk olive oil, vinegar, oregano, and salt, then pour over salad",
+      "page_number": 14
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Black Bean and Corn Salad",
+      "refined_text": "Ingredients: 1/2 cup cherry tomatoes, halved 1/4 cup red onion, finely chopped 1/4 cup cilantro, chopped In a large bowl, combine the black beans, corn, tomatoes, red onion, and cilantro",
+      "page_number": 7
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Mediterranean Chickpea Salad",
+      "refined_text": "Ingredients: 1/4 cup red onion, finely chopped 1/4 cup feta cheese, crumbled In a large bowl, combine the chickpeas, tomatoes, cucumber, red onion, and feta cheese",
+      "page_number": 6
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "section_title": "Apple Peanut Butter Sandwiches",
+      "refined_text": "Ingredients: 1 apple, cored and sliced into rings Optional toppings: granola, raisins, coconut flakes Add optional toppings if desired Sandwich two apple rings together with the peanut butter sides facing in",
+      "page_number": 12
+    }
+  ]
+}

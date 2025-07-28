@@ -1,0 +1,182 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Learn Acrobat - Fill and Sign.pdf",
+      "Learn Acrobat - Request e-signatures_2.pdf",
+      "Test Your Acrobat Exporting Skills.pdf",
+      "Learn Acrobat - Create and Convert_2.pdf",
+      "Learn Acrobat - Edit_2.pdf",
+      "Learn Acrobat - Share_1.pdf",
+      "The Ultimate PDF Sharing Checklist.pdf",
+      "Learn Acrobat - Generative AI_1.pdf",
+      "Learn Acrobat - Export_2.pdf",
+      "Learn Acrobat - Request e-signatures_1.pdf",
+      "Learn Acrobat - Export_1.pdf",
+      "Learn Acrobat - Edit_1.pdf",
+      "Learn Acrobat - Generative AI_2.pdf",
+      "Learn Acrobat - Share_2.pdf",
+      "Learn Acrobat - Create and Convert_1.pdf"
+    ],
+    "persona": {
+      "role": "HR professional"
+    },
+    "job_to_be_done": {
+      "task": "Create and manage fillable forms for onboarding and compliance."
+    },
+    "processing_timestamp": "2025-07-28T13:03:40Z"
+  },
+  "extracted_sections": [
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 12,
+      "section_title": "Interactive form",
+      "importance_rank": 1
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 2,
+      "section_title": "Flat forms: These do not have interactive fields. It could be a paper form or PDF that",
+      "importance_rank": 2
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 8,
+      "section_title": "Is the form fillable?",
+      "importance_rank": 3
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 8,
+      "section_title": "Fill in interactive forms",
+      "importance_rank": 4
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 12,
+      "section_title": "Change flat forms to fillable (Acrobat Pro)",
+      "importance_rank": 5
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "page_number": 21,
+      "section_title": "PDF/A Compliance",
+      "importance_rank": 6
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 12,
+      "section_title": "Form Fill-in & Save).",
+      "importance_rank": 7
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 2,
+      "section_title": "Fill and sign PDF forms",
+      "importance_rank": 8
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 13,
+      "section_title": "Save forms",
+      "importance_rank": 9
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "page_number": 8,
+      "section_title": "Compliance Standard",
+      "importance_rank": 10
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "page_number": 3,
+      "section_title": "Microsoft Oﬃce",
+      "importance_rank": 11
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 2,
+      "section_title": "To fill text fields:",
+      "importance_rank": 12
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 14,
+      "section_title": "Print forms",
+      "importance_rank": 13
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 15,
+      "section_title": "Clear unsaved form entries",
+      "importance_rank": 14
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 14,
+      "section_title": "Text tool.",
+      "importance_rank": 15
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "page_number": 19,
+      "section_title": "Send For Review.",
+      "importance_rank": 16
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 10,
+      "section_title": "Auto-Complete forms (interactive forms",
+      "importance_rank": 17
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "page_number": 27,
+      "section_title": "Create PDFs from Word mail merges",
+      "importance_rank": 18
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 10,
+      "section_title": "Password authentication can be added to increase security. When configured, the participant",
+      "importance_rank": 19
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 5,
+      "section_title": "To add signature and initials:",
+      "importance_rank": 20
+    }
+  ],
+  "sub_section_analysis": [
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "section_title": "Interactive form",
+      "refined_text": "To create an interactive form, use the Prepare Forms tool See Create a form from an existing document",
+      "page_number": 12
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "section_title": "Flat forms: These do not have interactive fields. It could be a paper form or PDF that",
+      "refined_text": "hasn’t been optimized for form filling form fields like text fields, comb fields, checkboxes, and radio buttons manually add text and other symbols anywhere on the form using the Fill & Sign tool if You can complete the forms by entering information and adding your signatures also allows you to send your completed forms to others and securely save them in Adobe",
+      "page_number": 2
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "section_title": "Is the form fillable?",
+      "refined_text": "Not all forms are fillable Sometimes form creators don’t convert their PDFs to interactive fillable forms Or, they intentionally design a form that you can fill in only by hand These non-interactive forms are called flat forms",
+      "page_number": 8
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "section_title": "Fill in interactive forms",
+      "refined_text": "An interactive form contains fields that you can select or fill in the amount of data you enter and can span across pages Select anywhere in the form to access options, such as radio buttons text field to type When finished, submit the form to either send the data to a server or create an email",
+      "page_number": 8
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "section_title": "Change flat forms to fillable (Acrobat Pro)",
+      "refined_text": "You can change a flat form to a fillable form by either using the Prepare Form tool or enabling the Fill & Sign tools Acrobat and Acrobat Reader users can use the Fill & Sign tool to fill in flat forms",
+      "page_number": 12
+    }
+  ]
+}

@@ -145,7 +145,7 @@ Challenge Compliance
 
     CPU-only execution for broad compatibility.
 
-    Execution time within 60 seconds for up to 5 PDFs, scalable to ~45 seconds for 15 test documents.
+    Execution time within 60 seconds for up to 5 PDFs. Took ~40 seconds in test run for 31 test documents provided in github link
 
 ## Notes and Limitations 
 

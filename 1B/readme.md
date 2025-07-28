@@ -44,24 +44,29 @@ All dependencies are listed in requirements.txt.
 1B/
 ├── app/
 │   ├── input/
-│   │   ├──Collection1/
-│   │   │    ├── PDFs/                       # Input PDF documents
-│   │   │    └── challenge1b_input.json     # Input config: document list, persona, task
-│   │   ├──Collection2/
-│   │   │    ├── PDFs/                       # Input PDF documents
-│   │   │    └── challenge1b_input.json
-│   │   ├──Collection3/
-│   │       ├── PDFs/                       # Input PDF documents
+│   │   ├── Collection1/
+│   │   │   ├── PDFs/                     # Input PDF documents
+│   │   │   └── challenge1b_input.json   # Input config: document list, persona, task
+│   │   ├── Collection2/
+│   │   │   ├── PDFs/
+│   │   │   └── challenge1b_input.json
+│   │   └── Collection3/
+│   │       ├── PDFs/
 │   │       └── challenge1b_input.json
-│   └── output/ 
-|        ├──Collection1/
-|        └── challenge1b_input.json                       # Output JSON files
+│   |
+├── output/
+│   ├── Collection1/
+│      └── challenge1b_input.json       # Output JSON files
+│
 ├── models/
-│   └── all-MiniLM-L6-v2/              # Offline pre-downloaded embedding model
+│   └── all-MiniLM-L6-v2/               # Offline pre-downloaded embedding model
+│
 ├── src/
-│   └── main.py                        # Main pipeline script
-├── Dockerfile                        # Docker container setup
-├── requirements.txt                  # Python dependencies
+│   └── main.py                         # Main pipeline script
+│
+├── Dockerfile                          # Docker container setup
+└── requirements.txt                    # Python dependencies
+
 
 ### Build the Docker Image
 

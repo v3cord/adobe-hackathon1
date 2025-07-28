@@ -40,7 +40,7 @@ This project implements an intelligent document section extraction and ranking s
 
 All dependencies are listed in requirements.txt.
 ## Project Structure
-
+'''
 1B/
 ├── app/
 │   ├── input/
@@ -66,7 +66,7 @@ All dependencies are listed in requirements.txt.
 │
 ├── Dockerfile                          # Docker container setup
 └── requirements.txt                    # Python dependencies
-
+'''
 
 ### Build the Docker Image
 
